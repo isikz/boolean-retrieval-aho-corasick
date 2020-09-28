@@ -1,0 +1,47 @@
+[
+	{ 	
+	"set_id": 0,
+		"set_name": "Dünya Sağlık Örgütü Duyuruları",
+		"rules": [
+			{    "rule_id": 0,
+				"rule_name": "Korona Virüs Dünya Sağlık Örgütü Duyuru",
+				"keywords": [
+					"Corona Virüs",
+					"Dünya Sağlık Örgütü",
+					"Duyuru"
+				],
+				"name": "",
+				"lang": "",
+				"type": "",
+				"tags": [
+					"news"
+				],
+				"categories": [
+					"Sağlık",
+					"Yaşam"
+				],
+				"title": "",
+				"description": "",
+				"content": ""
+			},
+			{    
+    			"rule_id": 1,
+				"rule_name": "Dünya Sağlık Örgütü ve Soumya Swaminathan",
+				"keywords": [
+					"Dünya Sağlık Örgütü",
+					"Soumya Swaminathan"
+				],
+				"name": "F5 HABER",
+				"lang": "",
+				"type": "",
+				"tags": [
+					"news"
+				],
+				"categories": ["Dünya", "Aşı"],
+				"title": "",
+				"description": "",
+				"content": ""
+			}
+		]
+	}
+]
