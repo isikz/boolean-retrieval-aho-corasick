@@ -41,7 +41,350 @@
 				"title": "",
 				"description": "",
 				"content": ""
+			}, 
+			
+			{    "rule_id": 2,
+				"rule_name": "Korona Virüs ve Tedbir",
+				"keywords": [
+					"Sağlık Hizmetleri"
+				],
+				"name": "",
+				"lang": "",
+				"type": "",
+				"tags": [
+					"news"
+				],
+				"categories": [
+					"Sağlık",
+					"Yaşam"
+				],
+				"title": "",
+				"description": "",
+				"content": ""
+			},
+			{    
+    			"rule_id": 3,
+				"rule_name": "Dünya Sağlık Örgütü",
+				"keywords": [
+					"Dünya Sağlık Örgütü",
+					"Soumya Swaminathan"
+				],
+				"name": "ŞOK",
+				"lang": "",
+				"type": "",
+				"tags": [
+					"news"
+				],
+				"categories": ["Dünya", "Aşı"],
+				"title": "",
+				"description": "",
+				"content": ""
+			},
+			
+			{    "rule_id": 4,
+				"rule_name": "Korona Virüs Vakalar",
+				"keywords": [
+					"Corona Virüs"
+				],
+				"name": "",
+				"lang": "",
+				"type": "National",
+				"tags": [
+					"news"
+				],
+				"categories": [
+					"Sağlık",
+					"Dünya"
+				],
+				"title": "",
+				"description": "",
+				"content": ""
+			},
+			{    
+    			"rule_id": 5,
+				"rule_name": "Maske Mesafe Tedbir",
+				"keywords": [
+					"Fahrettin Koca"
+				],
+				"name": "",
+				"lang": "",
+				"type": "",
+				"tags": [
+					"news"
+				],
+				"categories": [],
+				"title": "",
+				"description": "",
+				"content": ""
+			},
+			
+			{    "rule_id": 6,
+				"rule_name": "Amerika'da Corona Virus",
+				"keywords": [
+					"Corona Virüs",
+					"Trump",
+					"Abd"
+				],
+				"name": "",
+				"lang": "",
+				"type": "",
+				"tags": [],
+				"categories": [
+					"Dünya"
+				],
+				"title": "",
+				"description": "",
+				"content": ""
+			},
+			{    
+    			"rule_id": 7,
+				"rule_name": "Dünya Siyaseti",
+				"keywords": [
+					"Macron",
+					"Libya"
+				],
+				"name": "",
+				"lang": "",
+				"type": "",
+				"tags": [
+					"news"
+				],
+				"categories": ["Dünya"],
+				"title": "",
+				"description": "",
+				"content": ""
+			},
+			
+			{    "rule_id": 8,
+				"rule_name": "Milletvekili Maaşları",
+				"keywords": [
+					"TBMM",
+					"Mustafa Şentop"
+				],
+				"name": "",
+				"lang": "",
+				"type": "",
+				"tags": [
+					"news"
+				],
+				"categories": [
+					"Siyaset"
+				],
+				"title": "",
+				"description": "",
+				"content": ""
+			},
+			{    
+    			"rule_id": 9,
+				"rule_name": "Lübnan'da Patlama",
+				"keywords": [
+					"Fransa",
+					"Macron"
+				],
+				"name": "F5 HABER",
+				"lang": "",
+				"type": "",
+				"tags": [
+					"news"
+				],
+				"categories": ["Dünya", "Savaş"],
+				"title": "",
+				"description": "",
+				"content": ""
+			},
+			
+			{    "rule_id": 10,
+				"rule_name": "Ömer Çelik'in Açıklaması",
+				"keywords": [
+					"Ak Parti",
+					"Ömer Çelik",
+					"Terör"
+				],
+				"name": "",
+				"lang": "",
+				"type": "National",
+				"tags": [
+					"news"
+				],
+				"categories": [],
+				"title": "",
+				"description": "",
+				"content": ""
+			},
+			{    
+    			"rule_id": 11,
+				"rule_name": "Ankara'da Patlama",
+				"keywords": [
+					"Ankara",
+					"Tren Garı"
+				],
+				"name": "",
+				"lang": "",
+				"type": "",
+				"tags": [
+					"news"
+				],
+				"categories": ["Türkiye"],
+				"title": "",
+				"description": "",
+				"content": ""
+			}, 
+			
+			{    "rule_id": 12,
+				"rule_name": "Yaz Kur'an Kursları Açılıyor",
+				"keywords": [
+					"Kuran Kursu",
+					"Ali Erbaş"
+				],
+				"name": "",
+				"lang": "",
+				"type": "",
+				"tags": [
+					"news"
+				],
+				"categories": [
+					"Eğitim",
+					"Din"
+				],
+				"title": "",
+				"description": "",
+				"content": ""
+			},
+			{    
+    			"rule_id": 13,
+				"rule_name": "İtalya'da Korona Virüs",
+				"keywords": [
+					"İtalya",
+					"Covid-19"
+				],
+				"name": "DOĞRUHABER",
+				"lang": "",
+				"type": "National",
+				"tags": [
+					"news"
+				],
+				"categories": ["Dünya", "Aşı"],
+				"title": "",
+				"description": "",
+				"content": ""
+			},
+			
+			{    "rule_id": 14,
+				"rule_name": "Fahrettin Koca ve Bilim Kurulu",
+				"keywords": [
+					"Corona Virüs", "Fahrettin Koca", "Bilim Kurulu"
+				],
+				"name": "",
+				"lang": "",
+				"type": "",
+				"tags": [
+					"news"
+				],
+				"categories": [
+					"Sağlık",
+					"Dünya"
+				],
+				"title": "",
+				"description": "",
+				"content": ""
+			},
+			{    
+    			"rule_id": 15,
+				"rule_name": "Muslera'nın Annesi Vefat Etti",
+				"keywords": [
+					"Fernando Muslera",
+					"Cenaze"
+				],
+				"name": "",
+				"lang": "",
+				"type": "",
+				"tags": [
+					"news"
+				],
+				"categories": ["Dünya", "Futbol"],
+				"title": "",
+				"description": "",
+				"content": ""
+			},
+			
+			{    "rule_id": 16,
+				"rule_name": "Korona Virüs ve  Türkiye'de Ölümler",
+				"keywords": [
+					"Koronavirüs",
+					"Türkiye"
+				],
+				"name": "",
+				"lang": "",
+				"type": "National",
+				"tags": [],
+				"categories": [
+					"Dünya"
+				],
+				"title": "",
+				"description": "",
+				"content": ""
+			},
+			{    
+    			"rule_id": 17,
+				"rule_name": "Dolar 8'e Yaklaştı",
+				"keywords": [
+					"Dolar",
+					"Berat Albayrak",
+					"Hazine Bakanı"
+				],
+				"name": "",
+				"lang": "",
+				"type": "",
+				"tags": [
+					"news"
+				],
+				"categories": ["Ekonomi"],
+				"title": "",
+				"description": "",
+				"content": ""
+			},
+			
+			{    "rule_id": 18,
+				"rule_name": "Uzaktan Eğitim",
+				"keywords": [
+					"MEB",
+					"Ziya Selçuk",
+					"Korona Virüs"
+				],
+				"name": "",
+				"lang": "",
+				"type": "",
+				"tags": [
+					"news"
+				],
+				"categories": [
+					"Eğitim", "Sağlık"
+				],
+				"title": "",
+				"description": "",
+				"content": ""
+			},
+			{    
+    			"rule_id": 19,
+				"rule_name": "İngiltere'de Vakalar",
+				"keywords": [
+					"Brunson",
+					"İngiltere",
+    				"Covid-19"
+				],
+				"name": "",
+				"lang": "",
+				"type": "",
+				"tags": [
+					"news"
+				],
+				"categories": ["Dünya", "Sağlık"],
+				"title": "",
+				"description": "",
+				"content": ""
 			}
+			
+			
 		]
 	}
 ]
